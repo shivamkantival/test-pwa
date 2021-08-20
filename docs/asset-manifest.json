@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/static/js/main.e468df59.chunk.js",
-    "main.js.map": "/static/js/main.e468df59.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.69f215df.js",
-    "runtime-main.js.map": "/static/js/runtime-main.69f215df.js.map",
-    "static/js/2.74b6334c.chunk.js": "/static/js/2.74b6334c.chunk.js",
-    "static/js/2.74b6334c.chunk.js.map": "/static/js/2.74b6334c.chunk.js.map",
-    "static/js/3.275f0f5c.chunk.js": "/static/js/3.275f0f5c.chunk.js",
-    "static/js/3.275f0f5c.chunk.js.map": "/static/js/3.275f0f5c.chunk.js.map",
-    "index.html": "/index.html",
-    "service-worker.js": "/service-worker.js",
-    "service-worker.js.map": "/service-worker.js.map",
-    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.74b6334c.chunk.js.LICENSE.txt": "/static/js/2.74b6334c.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg"
+    "main.css": "https://github.com/shivamkantival/test-pwa/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "https://github.com/shivamkantival/test-pwa/static/js/main.f61d07ae.chunk.js",
+    "main.js.map": "https://github.com/shivamkantival/test-pwa/static/js/main.f61d07ae.chunk.js.map",
+    "runtime-main.js": "https://github.com/shivamkantival/test-pwa/static/js/runtime-main.c3f8b4e7.js",
+    "runtime-main.js.map": "https://github.com/shivamkantival/test-pwa/static/js/runtime-main.c3f8b4e7.js.map",
+    "static/js/2.74b6334c.chunk.js": "https://github.com/shivamkantival/test-pwa/static/js/2.74b6334c.chunk.js",
+    "static/js/2.74b6334c.chunk.js.map": "https://github.com/shivamkantival/test-pwa/static/js/2.74b6334c.chunk.js.map",
+    "static/js/3.275f0f5c.chunk.js": "https://github.com/shivamkantival/test-pwa/static/js/3.275f0f5c.chunk.js",
+    "static/js/3.275f0f5c.chunk.js.map": "https://github.com/shivamkantival/test-pwa/static/js/3.275f0f5c.chunk.js.map",
+    "index.html": "https://github.com/shivamkantival/test-pwa/index.html",
+    "service-worker.js": "https://github.com/shivamkantival/test-pwa/service-worker.js",
+    "service-worker.js.map": "https://github.com/shivamkantival/test-pwa/service-worker.js.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "https://github.com/shivamkantival/test-pwa/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.74b6334c.chunk.js.LICENSE.txt": "https://github.com/shivamkantival/test-pwa/static/js/2.74b6334c.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "https://github.com/shivamkantival/test-pwa/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.69f215df.js",
+    "static/js/runtime-main.c3f8b4e7.js",
     "static/js/2.74b6334c.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.e468df59.chunk.js"
+    "static/js/main.f61d07ae.chunk.js"
   ]
 }
